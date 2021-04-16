@@ -6,7 +6,7 @@ Simple app for tracking task. Built using React, Redux, Redux Thunk, Bootstrap, 
 
 Run this following command:
 
-> `$ git clone https://github.com/syaifulhuseinnn/react-notes-redux.git`
+> `$ git clone https://github.com/syaifulhuseinnn/react-task-management-redux.git`
 
 > `$ cd react-notes-redux`
 
